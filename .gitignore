@@ -1,1 +1,12 @@
 .myvenv/
+__pycache__/
+
+passObj.py 
+InsectClass.py 
+InsectProgram.py 
+CoinClass.py 
+CoinToss.py 
+CellPhoneProgram.py 
+CellPhoneClass.py 
+BankAccountProgram.py 
+BankAccountClass.py 
